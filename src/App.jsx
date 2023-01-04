@@ -36,7 +36,7 @@ function App() {
 
       <Lista results={results} buscar={buscar} />
 
-      <h3 className="subtitulo">nos falta un personaje?</h3>
+      <h3 className="subtitulo">falta un personaje?</h3>
 
       <Formulario
         results={results}
